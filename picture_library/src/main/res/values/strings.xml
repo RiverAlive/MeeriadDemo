@@ -1,0 +1,79 @@
+<resources>
+    <string name="picture_camera_roll">Album</string>
+    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
+    <string name="picture_cancel">Cancel</string>
+    <string name="picture_take_picture">Camera </string>
+    <string name="picture_rule">not pictures or video</string>
+    <string name="picture_min_video_num">Video Selection Cannot%1$sNumber</string>
+    <string name="picture_message_max_num">Select up to %1$s images</string>
+    <string name="picture_message_audio_max_num">Select up to %1$s Audio</string>
+    <string name="picture_message_video_max_num">Select up to %1$s Video</string>
+    <string name="picture_preview">Preview</string>
+    <string name="picture_please">One moment…</string>
+    <string name="picture_done_front_num">%1$d/%2$d finished </string>
+    <string name="picture_completed">Done </string>
+    <string name="picture_done">Done </string>
+    <string name="picture_please_select">Please Select</string>
+    <string name="picture_empty_title">No video or photo\n</string>
+    <string name="picture_empty_audio_title">No audio\n</string>
+    <string name="picture_audio_empty">Record an audio</string>
+    <string name="picture_empty">Make a photo or video with camera</string>
+    <string name="picture_min_img_num">Minimum t%1$s pictures </string>
+    <string name="picture_gif_tag">Animation </string>
+    <string name="picture_webp_tag">webp</string>
+    <string name="picture_audio">Sound recording refused </string>
+    <string name="picture_jurisdiction">SD card access refused</string>
+    <string name="picture_camera">Camera access refused </string>
+    <string name="picture_video_toast">No preview </string>
+    <string name="picture_record_video">Video</string>
+    <string name="picture_photograph">Photo</string>
+    <string name="picture_long_chart">Panorama</string>
+    <string name="picture_warning">No media file</string>
+    <string name="picture_prompt">Tips</string>
+    <string name="picture_prompt_content">Save to phone</string>
+    <string name="picture_save_error">Fail to save</string>
+    <string name="picture_save_success">Picture save to </string>
+    <string name="picture_all_audio">All audios</string>
+    <string name="picture_tape">Recording </string>
+    <string name="picture_play_audio">Play</string>
+    <string name="picture_stop_audio">Stop</string>
+    <string name="picture_quit_audio">Quit</string>
+    <string name="picture_pause_audio">Pause</string>
+    <string name="picture_error">Picture crashed</string>
+    <string name="picture_video_error">Video crashed</string>
+    <string name="picture_audio_error">Audio crashed</string>
+    <string name="picture_confirm">Confirm</string>
+    <string name="picture_preview_image_num">%1$d/%2$d</string>
+    <string name="picture_not_crop_data">No data </string>
+    <string name="picture_original_image">Original (%1$s)</string>
+    <string name="picture_default_original_image">Original</string>
+    <string name="picture_send">Done </string>
+    <string name="picture_send_num">Done (%1$d/%2$d)</string>
+    <string name="picture_preview_num">Preview(%1$d)</string>
+    <string name="picture_select">Select </string>
+    <string name="picture_data_exception">Problem with album…</string>
+    <string name="picture_recording_time_is_short">Recording is too short</string>
+    <string name="picture_photo_camera"> Click for photo, hold for video</string>
+    <string name="picture_choose_max_seconds">Video size is more than %1$ds</string>
+    <string name="picture_choose_min_seconds">Video size is smaller than %1$ds</string>
+    <string name="picture_choose_limit_seconds">Video size is between %1$ds and %2$ds can be selected</string>
+
+    <string name="picture_photo_pictures">Click for photo</string>
+    <string name="picture_photo_recording"> Hold for video</string>
+    <string name="picture_go_setting">Setup</string>
+    <string name="picture_know">Ok</string>
+    <string name="picture_data_null">No files</string>
+    <string name="picture_editor">Edit </string>
+
+
+    <string name="ucrop_label_original">Original Scale </string>
+    <string name="ucrop_label_edit_photo">Crop </string>
+
+    <string name="ucrop_menu_crop">Crop</string>
+
+    <string name="ucrop_rotate">Rotate</string>
+    <string name="ucrop_scale">Scale</string>
+    <string name="ucrop_crop">Crop</string>
+
+    <string name="ucrop_gif_tag">Animation</string>
+</resources>
