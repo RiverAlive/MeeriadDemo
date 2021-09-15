@@ -177,7 +177,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         cb_compress.setOnCheckedChangeListener(this);
         tv_select_num.setText(ValueOf.toString(maxSelectNum));
         FullyGridLayoutManager manager = new FullyGridLayoutManager(this,
-                4, GridLayoutManager.VERTICAL, false);
+                3, GridLayoutManager.VERTICAL, false);
         mRecyclerView.setLayoutManager(manager);
 
         mRecyclerView.addItemDecoration(new GridSpacingItemDecoration(4,
