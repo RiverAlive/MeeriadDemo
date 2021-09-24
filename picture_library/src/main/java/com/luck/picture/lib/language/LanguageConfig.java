@@ -52,4 +52,9 @@ public class LanguageConfig {
      * 葡萄牙语
      */
     public static final int PORTUGAL = 9;
+
+    /**
+     * 意大利
+     */
+    public static final int IT = 10;
 }

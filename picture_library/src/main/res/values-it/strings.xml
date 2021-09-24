@@ -1,0 +1,79 @@
+<resources>
+    <string name="picture_camera_roll">Album</string>
+    <string name="picture_camera_roll_num">%1$s (%2$d)</string>
+    <string name="picture_cancel">Cancella</string>
+    <string name="picture_take_picture">Fotocamera </string>
+    <string name="picture_rule">nessun video o foto </string>
+    <string name="picture_min_video_num"> Non si possono selezionare i video %1$s Numero</string>
+    <string name="picture_message_max_num"> Seleziona fino a  %1$s foto </string>
+    <string name="picture_message_audio_max_num">Seleziona fino a %1$s Audio</string>
+    <string name="picture_message_video_max_num">Seleziona fino a %1$s Video</string>
+    <string name="picture_preview">Anteprima</string>
+    <string name="picture_please">Un momento…</string>
+    <string name="picture_done_front_num">%1$d/%2$d Finito </string>
+    <string name="picture_completed">Fatto </string>
+    <string name="picture_done">Fatto </string>
+    <string name="picture_please_select">Seleziona</string>
+    <string name="picture_empty_title">nessun video o foto</string>
+    <string name="picture_empty_audio_title">Nessun audio</string>
+    <string name="picture_audio_empty">Registra un audio</string>
+    <string name="picture_empty"> Prendi una foto o video con la fotocapera </string>
+    <string name="picture_min_img_num">Minimo t %1$s pictures </string>
+    <string name="picture_gif_tag">Animazione  </string>
+    <string name="picture_webp_tag">webp</string>
+    <string name="picture_audio">Registramento del suono rifiutato </string>
+    <string name="picture_jurisdiction">Accesso alla SD card riufiutato </string>
+    <string name="picture_camera">Accesso alla fotocamera rifiutato </string>
+    <string name="picture_video_toast">Nessuna anterima  </string>
+    <string name="picture_record_video">Video</string>
+    <string name="picture_photograph">Foto</string>
+    <string name="picture_long_chart">Panorama</string>
+    <string name="picture_warning">Nessun file media</string>
+    <string name="picture_prompt">Consigli</string>
+    <string name="picture_prompt_content">Salva nel telefoto</string>
+    <string name="picture_save_error">Salvataggio fallito</string>
+    <string name="picture_save_success">Salva foto</string>
+    <string name="picture_all_audio">Tutti gli audio</string>
+    <string name="picture_tape">Registramento </string>
+    <string name="picture_play_audio">Play</string>
+    <string name="picture_stop_audio">Stop</string>
+    <string name="picture_quit_audio">Esci</string>
+    <string name="picture_pause_audio">Pausa</string>
+    <string name="picture_error">Foto rovinata</string>
+    <string name="picture_video_error">Video rovinato</string>
+    <string name="picture_audio_error">Audio rovinato</string>
+    <string name="picture_confirm">Conferma</string>
+    <string name="picture_preview_image_num">%1$d/%2$d</string>
+    <string name="picture_not_crop_data">Nessun dato </string>
+    <string name="picture_original_image">Originale (%1$s)</string>
+    <string name="picture_default_original_image">Original</string>
+    <string name="picture_send">Fatto </string>
+    <string name="picture_send_num">Fatto (%1$d/%2$d)</string>
+    <string name="picture_preview_num">Anteprima(%1$d)</string>
+    <string name="picture_select">Seleziona </string>
+    <string name="picture_data_exception">Problema con l\'album…</string>
+    <string name="picture_recording_time_is_short">La registrazione non é riuscita</string>
+    <string name="picture_photo_camera"> Clicca per fare una foto,mantieni per fare un video</string>
+    <string name="picture_choose_max_seconds">La dimenzione é superiore a %1$ds</string>
+    <string name="picture_choose_min_seconds">La dimenzione del video é inferiore a %1$ds</string>
+    <string name="picture_choose_limit_seconds">La dimezione del video é inferiore a %1$ds e %2$ds possono essere selezionati </string>
+
+    <string name="picture_photo_pictures">Clicca per fare una foto</string>
+    <string name="picture_photo_recording">mantieni per fare un video</string>
+    <string name="picture_go_setting">imposta</string>
+    <string name="picture_know">Ok</string>
+    <string name="picture_data_null">Nessun file</string>
+    <string name="picture_editor">Modifica </string>
+
+
+    <string name="ucrop_label_original">Scala originale</string>
+    <string name="ucrop_label_edit_photo">Taglia </string>
+
+    <string name="ucrop_menu_crop">Taglia</string>
+
+    <string name="ucrop_rotate">Ruota</string>
+    <string name="ucrop_scale">Scala</string>
+    <string name="ucrop_crop">Taglia</string>
+
+    <string name="ucrop_gif_tag">Animazione</string>
+</resources>
